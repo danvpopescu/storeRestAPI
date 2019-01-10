@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: robotstore
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Daniel
+Implementation-Vendor-Id: com.robotstore
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/robotstore
+Created-By: Maven Integration for Eclipse
+
